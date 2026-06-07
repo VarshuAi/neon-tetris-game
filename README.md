@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Browser falling blocks puzzle with custom layouts.
+  name: neon-tetris-game version: 1.0 type: Repository author: VarshuAi description: >   Browser falling blocks puzzle with custom layouts. primary_tech: CSS
 primary_tech: CSS
 ```
 
